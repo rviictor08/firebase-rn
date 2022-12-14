@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783202691638",
+    "project_id": "loginfirebase-a53a2",
+    "storage_bucket": "loginfirebase-a53a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783202691638:android:2293a4a19f16d33c928697",
+        "android_client_info": {
+          "package_name": "com.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783202691638-l7cnlcue0mg0o4jfch1l7bs2jbkenp5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVaZpYMrEZ89HPEB42OWahIGCpuvZefXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783202691638-l7cnlcue0mg0o4jfch1l7bs2jbkenp5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
